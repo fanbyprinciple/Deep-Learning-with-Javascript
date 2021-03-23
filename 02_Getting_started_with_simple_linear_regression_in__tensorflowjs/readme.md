@@ -40,6 +40,12 @@ But it is not working in my case:
 
 We need a diversion and learn about async in javascript.
 
+Meanwhile testing other waters, Daniel shiffman has outstanding material on youtube in Javascript, this code shows how tensorflow.js can be used for regression.
+
+check: https://editor.p5js.org/fanbyprinciple/sketches/N32mb1VZP
+
+![](regression.png)
+
 ## Async in Javascript
 
 Page 70
