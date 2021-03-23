@@ -42,7 +42,7 @@ We need a diversion and learn about async in javascript.
 
 ## Async in Javascript
 
-
+Page 70
 
 
 
