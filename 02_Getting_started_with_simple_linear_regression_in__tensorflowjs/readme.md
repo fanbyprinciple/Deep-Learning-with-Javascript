@@ -50,6 +50,12 @@ check: https://editor.p5js.org/fanbyprinciple/sketches/N32mb1VZP
 
 Page 70
 
+## Continuing
+
+![](correct_result.png)
+
+
+
 
 
 
