@@ -40,9 +40,11 @@ But it is not working in my case:
 
 We need a diversion and learn about async in javascript.
 
+## Regression using tensorflow.js
+
 Meanwhile testing other waters, Daniel shiffman has outstanding material on youtube in Javascript, this code shows how tensorflow.js can be used for regression.
 
-check: https://editor.p5js.org/fanbyprinciple/sketches/N32mb1VZP
+regression lines: https://editor.p5js.org/fanbyprinciple/sketches/N32mb1VZP
 
 ![](regression.png)
 
@@ -54,9 +56,21 @@ Page 70
 
 ![](correct_result.png)
 
+## The training loop
 
+1. Draw a batch of training samples x and corresponding y_true
+2. Run the network get prediction
+3. Compute the loss
+4. update the weights
 
+![](slug.png)
 
+# Working on Boston housing Project
+
+Page 88
+need to run the tfjs example - Running unsuccessfully
+install yarn - DONE
+rewriting boston data on your own.
 
 
 
