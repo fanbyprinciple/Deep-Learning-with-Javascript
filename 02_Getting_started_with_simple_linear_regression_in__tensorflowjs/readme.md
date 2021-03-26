@@ -48,6 +48,10 @@ check: https://editor.p5js.org/fanbyprinciple/sketches/N32mb1VZP
 
 ## Async in Javascript
 
+A good explanation of async and await syntactic sugar over javascript variables is given here: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+
+
+
 
 
 
