@@ -144,5 +144,9 @@ Tut page: https://codelabs.developers.google.com/codelabs/tfjs-training-regressi
 
 ![](img/horse_vs_mpg.png)
 
+Training :
+![](img/model_training.png)
+
+Problem with prediction!
 
 
