@@ -148,5 +148,15 @@ Training :
 ![](img/model_training.png)
 
 Problem with prediction!
+![](img/linear_regression.png)
+
+
+## Polynomial regression
+
+From the coding train:
+
+live at : https://editor.p5js.org/fanbyprinciple/sketches/cf9AZcOhP
+
+![](img/curvy.gif)
 
 
